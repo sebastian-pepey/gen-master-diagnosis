@@ -1,0 +1,17 @@
+Necesidades:
+
+Encriptación: bcrypt
+
+Cookie Parser: Manejo de Cookies de usuario
+
+EJS: Motor de Plantillas
+
+Express - Session: Login de Usuario
+
+Express - Validator: Validación de Usuario
+
+Method - Override: Implementación de rutas PUT y DELETE
+
+Multer: Manejo de archivos de usuario
+
+Sequelize: Manejo de la Base de Datos

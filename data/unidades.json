@@ -1,0 +1,49 @@
+[{
+        "interno": 1000,
+        "marcaId": 1,
+        "modeloMotId": 1,
+        "modeloGenId": 1,
+        "proyecto": "JA123",
+        "serieMotor": 123456789,
+        "seriechasis": 123456789,
+        "serieCabinado": 123456789,
+        "serieTablero1": "AAAA123456789",
+        "serieTablero2": "AAAA123456789",
+        "serieInt": "AAAA123456789",
+        "horas": 1234567,
+        "interruptorId": 1,
+        "ajustes": {
+            "interruptor": {
+                "seteo1": 0.95,
+                "seteo2": 1.5,
+                "seteo3": 2,
+                "seteo4": 0.3,
+                "seteo5": false,
+                "seteo6": 10
+            },
+            "tension": {
+                "seteo1": 0.95,
+                "seteo2": 1.5,
+                "seteo3": 2,
+                "seteo4": 0.3,
+                "seteo5": false,
+                "seteo6": 10
+            },
+            "corriente": {
+                "seteo1": 0.95,
+                "seteo2": 1.5,
+                "seteo3": 2,
+                "seteo4": 0.3,
+                "seteo5": false,
+                "seteo6": 10
+            },
+            "frecuencia": {
+                "seteo1": 0.95,
+                "seteo2": 1.5,
+                "seteo3": 2,
+                "seteo4": 0.3,
+                "seteo5": false,
+                "seteo6": 10
+            }
+        }
+    }]

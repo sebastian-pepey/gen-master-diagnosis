@@ -1,0 +1,15 @@
+[
+    {
+        "combustibleId": 1,
+        "combustible": "gas"
+    }, {
+        "combustibleId": 2,
+        "combustible": "gasoil"
+    }, {
+        "combustibleId": 3,
+        "combustible": "solar"
+    }, {
+        "combustibleId": 4,
+        "combustible": "agua"
+    }
+]

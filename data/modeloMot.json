@@ -1,0 +1,10 @@
+[
+    {
+        "modeloId":1,
+        "combustibleId":1,
+        "cilindros":20,
+        "potencia":1415,
+        "compresion":"11.8/1",
+        "actuadorId":1
+    }
+]
